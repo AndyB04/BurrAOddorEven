@@ -1,0 +1,15 @@
+/Users/angelmanz/Documents/Level1/GitRepository/Mini6redo/bin/Debug/net6.0/Mini6redo
+/Users/angelmanz/Documents/Level1/GitRepository/Mini6redo/bin/Debug/net6.0/Mini6redo.deps.json
+/Users/angelmanz/Documents/Level1/GitRepository/Mini6redo/bin/Debug/net6.0/Mini6redo.runtimeconfig.json
+/Users/angelmanz/Documents/Level1/GitRepository/Mini6redo/bin/Debug/net6.0/Mini6redo.dll
+/Users/angelmanz/Documents/Level1/GitRepository/Mini6redo/bin/Debug/net6.0/Mini6redo.pdb
+/Users/angelmanz/Documents/Level1/GitRepository/Mini6redo/obj/Debug/net6.0/Mini6redo.csproj.AssemblyReference.cache
+/Users/angelmanz/Documents/Level1/GitRepository/Mini6redo/obj/Debug/net6.0/Mini6redo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelmanz/Documents/Level1/GitRepository/Mini6redo/obj/Debug/net6.0/Mini6redo.AssemblyInfoInputs.cache
+/Users/angelmanz/Documents/Level1/GitRepository/Mini6redo/obj/Debug/net6.0/Mini6redo.AssemblyInfo.cs
+/Users/angelmanz/Documents/Level1/GitRepository/Mini6redo/obj/Debug/net6.0/Mini6redo.csproj.CoreCompileInputs.cache
+/Users/angelmanz/Documents/Level1/GitRepository/Mini6redo/obj/Debug/net6.0/Mini6redo.dll
+/Users/angelmanz/Documents/Level1/GitRepository/Mini6redo/obj/Debug/net6.0/refint/Mini6redo.dll
+/Users/angelmanz/Documents/Level1/GitRepository/Mini6redo/obj/Debug/net6.0/Mini6redo.pdb
+/Users/angelmanz/Documents/Level1/GitRepository/Mini6redo/obj/Debug/net6.0/Mini6redo.genruntimeconfig.cache
+/Users/angelmanz/Documents/Level1/GitRepository/Mini6redo/obj/Debug/net6.0/ref/Mini6redo.dll
